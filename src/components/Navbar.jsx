@@ -16,7 +16,7 @@ const Navbar = () => {
       {/* menu */}
       <ul className="hidden md:flex">
         <li>
-          <Link to="home" smooth={true} duration={500}>
+          <Link to= "home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
@@ -30,11 +30,7 @@ const Navbar = () => {
             About
           </Link>
         </li>
-        <li>
-          <Link to="education" smooth={true} duration={500}>
-            Education
-          </Link>
-        </li>
+        
         <li>
           <Link to="tech skills" smooth={true} duration={500}>
             Tech Skills
@@ -80,11 +76,7 @@ const Navbar = () => {
             About
           </Link>
         </li>
-        <li className="py-6 text-4xl">
-          <Link onClick={handelClick} to="education" smooth={true} duration={500}>
-            Education
-          </Link>
-        </li>
+        
         <li className="py-6 text-4xl">
           <Link
             onClick={handelClick}

@@ -14,7 +14,7 @@ const Skills = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
-          <p className="mt-10 mb-3 text-center text-4xl font-300px ">Tech Skills</p>
+          <p className="mt-2 mb-3 text-center text-4xl font-300px ">Tech Skills</p>
         </div>
 
         <div className="mt-9 w-full grid grid-cols-2 sm:grid-cols-3 gap-5 text-center py-8">
