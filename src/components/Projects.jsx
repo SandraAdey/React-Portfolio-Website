@@ -32,7 +32,11 @@ const Projects = () => {
                     View Project
                   </button>
                 </a>
-                <a href="/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/SandraAdey/React-twitter-clone"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-sm  px-4 py-3 m-4 bg-white text-black font-bold text-lg">
                     Github
                   </button>
@@ -50,7 +54,11 @@ const Projects = () => {
                 JS Weather App
               </span>
               <div className="pt-8 text-center">
-                <a href="/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://zesty-narwhal-8fc2bf.netlify.app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-sm px-4 py-3 m- bg-white text-black font-bold text-lg">
                     View Project
                   </button>
@@ -83,7 +91,11 @@ const Projects = () => {
                     View Project
                   </button>
                 </a>
-                <a href="/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/SandraAdey/Music-app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-sm  px-4 py-3 m-4 bg-white text-black font-bold text-lg">
                     Github
                   </button>
@@ -110,7 +122,11 @@ const Projects = () => {
                     View Project
                   </button>
                 </a>
-                <a href="/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/SandraAdey/Digital-Piano"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="text-center rounded-sm  px-4 py-3 m-4 bg-white text-black font-bold text-lg">
                     Github
                   </button>
